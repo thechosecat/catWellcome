@@ -1,0 +1,8 @@
+name: catWellcome
+version: '${project.version}'
+main: catnoob.wellcome.Main
+api-version: 1.19
+commands:
+  'cwellcome':
+    usage: /cwellcome
+    description: 讓我跟羽森澀澀的秘密><
